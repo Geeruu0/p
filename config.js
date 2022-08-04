@@ -1,35 +1,35 @@
 //=============『 Utama 』================== //
-global.owner = ['6285655807787'] 
+global.owner = ['6285707042602'] 
 global.mods = [] 
 global.prems = [''] 
 
 //=============『 Info Owner 』============== //
-global.nameowner = 'ᴹᴿ᭄ 𝔸𝕟𝕘𝕘𝕒𝕟𝕆𝕗𝕔ོ ×፝֟͜×'
-global.numberowner = '6285655807787'
-global.instagram = 'https://instagram.com/angganaudio'
-global.github = 'https://github.com/angganaudio01'
-global.dana = '-'
-global.pulsa = '085655807787'
-global.gopay = '085655807787'
+global.nameowner = 'Geeruu'
+global.numberowner = '6285707042602'
+global.instagram = 'https://instagram.com/adix.yr'
+global.github = 'https://github.com/Geeruu0'
+global.dana = '085707042602'
+global.pulsa = '085891056005'
+global.gopay = '-'
 
 //=============『 Info Bot 』=================//
-global.namebot = '𝙳𝙰𝙽𝙸𝙴𝙻𝙱𝙾𝚃-𝙼𝙳ོ'
-global.gc = 'https://chat.whatsapp.com/KMaJIZT78yK5nsDYZEJsIw'
-global.web = 'https://youtube.com/channel/UCPkHhW_qgygrH5sq4Otch4Q' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
+global.namebot = 'GeeruuID'
+global.gc = 'https://chat.whatsapp.com/GNSL2xlVt45JGR1awPM7NO'
+global.web = 'https://github.io/Geeruu0' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.price1 = 'Permanen 15.000\n1 bulan 10.000\n2 Minggu 7.000\n1 Minggu 5.000'
 
 //=======『 Tampilan Dan Lainnya 』============//
-global.fotonya1 = 'https://telegra.ph/file/d6b8427c43c0bf596c1e2.jpg' //ganti jadi foto bot mu
-global.fotonya2 = 'https://telegra.ph/file/d6b8427c43c0bf596c1e2.jpg' //ini juga ganti 
+global.fotonya1 = 'https://telegra.ph/file/a46ab7fa39338b1f54d5a.mp4' //ganti jadi foto bot mu
+global.fotonya2 = 'https://telegra.ph/file/a46ab7fa39338b1f54d5a.mp4' //ini juga ganti 
 global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
-global.wm = '⫹⫺ 𝙳𝙰𝙽𝙸𝙴𝙻𝙱𝙾𝚃-𝙼𝙳'
+global.wm = '⫹⫺ Geeruu-𝙼𝙳'
 global.watermark = wm
-global.wm2 = '                     「 𝙳𝙰𝙽𝙸𝙴𝙻𝙱𝙾𝚃-𝙼𝙳 あ⁩ 」'
-global.wm3 = '⫹⫺ 𝙳𝙰𝙽𝙸𝙴𝙻𝙱𝙾𝚃-𝙼𝙳'
+global.wm2 = '                     「 Geeruu-𝙼𝙳 あ⁩ 」'
+global.wm3 = '⫹⫺ Geeruu-𝙼𝙳'
 global.htki = '––––––『' 
 global.htka = '』––––––'
-global.media = 'https://telegra.ph/file/d6b8427c43c0bf596c1e2.jpg'
+global.media = 'https://telegra.ph/file/a46ab7fa39338b1f54d5a.mp4'
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=smurfs-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.wait = '_*tunggu sedang di proses...*_'
 global.eror = '_*Server Error*_'
@@ -37,7 +37,7 @@ global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
 global.stiker_wait = '*Stiker sedang dibuat*'
 global.packname = 'Sticker By'
-global.author = '© Anggan'
+global.author = '© Adi'
 
 //=============『 Apikey 』================== //
 global.APIs = { // API Prefix
