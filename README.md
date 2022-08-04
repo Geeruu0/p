@@ -2,7 +2,7 @@
 <img src="https://telegra.ph/file/fadf93e02010bf5a891e6.jpg" alt="𝙳𝙰𝙽𝙸𝙴𝙻 𝙼𝙳" width="300" />
 
 </p>
-<h1 align="center">Anggan Official</h1>
+<h1 align="center">GeeruuID</h1>
 
 >
 >
@@ -52,7 +52,7 @@ WhatsApp Bot Multi Device
 [Ilman](https://github.com/ilmanhdyt) | [Hyzer](https://github.com/Hyzerr) 
  Author | Creator
  
-### Anggan Official Statistics
+### Geeruu Official Statistics
 
 [![Hyzer GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hyzerr&show_icons=true&hide=issues&theme=radical)](https://github-readme-stats.vercel.app)
 [![Hyzer Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Hyzerr&layout=compact&theme=radical)](https://github-readme-stats.vercel.app)
@@ -66,4 +66,4 @@ WhatsApp Bot Multi Device
 ---------
 
 ## Request Fitur To
-[`Creator Here`](https://wa.me/6285655807787?text=Banh+req+fitur) 
+[`Creator Here`](https://wa.me/6285707042602?text=Banh+req+fitur) 
