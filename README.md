@@ -9,13 +9,13 @@
 >
 </div>
 <p align="center">
-  <a href="https://github.com/angganofficial"><img title="GitHub" src="https://img.shields.io/badge/Github-Hyzerr.svg?style=for-the-badge&logo=github" /></a>
-  <a href="httts://instagram.com/angganaudio"><img title="Instagram " src="https://img.shields.io/badge/Instagram-Hyzerr.svg?style=for-the-badge&logo=instagram" /></a>
-  <a href="https://youtu.be/c/anggan"><img title="Youtube" src="https://img.shields.io/badge/Youtube-Hyzerr.svg?style=for-the-badge&logo=youtube" /></a>
+  <a href="https://github.com/Geeruu0"><img title="GitHub" src="https://img.shields.io/badge/Github-Hyzerr.svg?style=for-the-badge&logo=github" /></a>
+  <a href="httts://instagram.com/adix.yr"><img title="Instagram " src="https://img.shields.io/badge/Instagram-Hyzerr.svg?style=for-the-badge&logo=instagram" /></a>
+  <a href="https://youtu.be/c/GeeruuID"><img title="Youtube" src="https://img.shields.io/badge/Youtube-Hyzerr.svg?style=for-the-badge&logo=youtube" /></a>
   <a href="https://api-anggan.herokuapp.com"><img title="Rest Api" src="https://img.shields.io/badge/Rest Api-Hyzerr.svg?style=for-the-badge&logo=twitter" /></a>
   <h4 align="center">
   <a
-  <a href="https://wa.me/6285655807787">Chat Saya Jika Ingin Menanyakan Sesuatu </a>
+  <a href="https://wa.me/6285707042602">Chat Saya Jika Ingin Menanyakan Sesuatu </a>
 </h4>
 </p>
 
@@ -54,7 +54,7 @@ WhatsApp Bot Multi Device
  
 ### Geeruu Official Statistics
 
-[![Hyzer GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hyzerr&show_icons=true&hide=issues&theme=radical)](https://github-readme-stats.vercel.app)
+[![Geeruu GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hyzerr&show_icons=true&hide=issues&theme=radical)](https://github-readme-stats.vercel.app)
 [![Hyzer Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Hyzerr&layout=compact&theme=radical)](https://github-readme-stats.vercel.app)
 
 # Thanks to
